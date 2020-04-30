@@ -1,4 +1,4 @@
-![logo](http://html2pdf.it/favicon-32x32.png) [html2pdf.it](http://www.html2pdf.it)
+![logo](http://www.html2pdf.it/favicon-32x32.png) [html2pdf.it](http://www.html2pdf.it)
 ===========
 Generate PDFs from any web-page. You need [Node.js](http://nodejs.org) to run it.
 
